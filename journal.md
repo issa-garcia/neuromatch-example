@@ -1,6 +1,7 @@
 TMS HARDI
 
-By: Victor Issa-Garcia
+By: WJohn, Victor Issa-Garcia
+Affiliations
 
 Introduction: HARDI is great for predicting TMS response[1. Author, 2. Author]
 
